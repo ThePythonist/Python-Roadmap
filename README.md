@@ -1,4 +1,4 @@
-Step 1
+<h1>Step 1</h1>
 <img src="1.png" width="400">
 Step 2
 <img src="2.png" width="400">
